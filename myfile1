@@ -1,0 +1,10 @@
+1  which git
+    2  yum install git -y
+    3  which git
+    4  ls
+    5  git config --global user.name "syamsandeep143"
+    6  git config --global user.mail "mailto:syamsandeep.marolix@gmail.com"
+    7  git config --list
+    8  ls
+    9  mkdir mumbaigit
+   10  ls
